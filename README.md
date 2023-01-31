@@ -13,4 +13,5 @@ Blockchain Private Key Vulnerability List
 
 ## Tools
 
-* **[Vanitygen](https://github.com/samr7/vanitygen)** - a command-line vanity bitcoin address generator. 
+* **[Vanitygen](https://github.com/samr7/vanitygen)** - a command-line vanity Bitcoin address generator.
+* **[Bitaddress](https://www.bitaddress.org)** - open source JavaScript client-side Bitcoin online wallet generator.
