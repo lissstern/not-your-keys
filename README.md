@@ -16,4 +16,5 @@ Blockchain Private Key Vulnerability List
 * **[Vanitygen](https://github.com/samr7/vanitygen)** - a command-line vanity Bitcoin address generator.
 * **[Bitaddress](https://www.bitaddress.org)** - open source JavaScript client-side Bitcoin online wallet generator.
 * **[LoyceV's](https://bitcointalk.org/index.php?topic=5265993.0)** list of all Bitcoin addresses ever used.
-* **[Blockchair](https://blockchair.com/dumps)** - database dumps for Bitcoin, BitcoinCash, Dogecoin, Ethereum, Dash, Litecoin and Zcash  .
+* **[Blockchair](https://blockchair.com/dumps)** - database dumps for Bitcoin, BitcoinCash, Dogecoin, Ethereum, Dash, Litecoin and Zcash.
+* **[Btcrecover](https://github.com/gurnec/btcrecover)** - open source Bitcoin wallet password and seed recovery tool.
