@@ -20,3 +20,4 @@ Blockchain Private Key Vulnerability List
 * **[LoyceV's](https://bitcointalk.org/index.php?topic=5265993.0)** list of all Bitcoin addresses ever used.
 * **[Blockchair](https://blockchair.com/dumps)** - database dumps for Bitcoin, BitcoinCash, Dogecoin, Ethereum, Dash, Litecoin and Zcash.
 * **[Btcrecover](https://github.com/gurnec/btcrecover)** - open source Bitcoin wallet password and seed recovery tool.
+* **[Hashcat](https://github.com/hashcat/hashcat)** - CPU/GPU world's fastest and most advanced password recovery utility.
