@@ -13,6 +13,12 @@ Blockchain Private Key Vulnerability List
 
 * **[Finding Over 732 Active Private Keys On Ethereum's Blockchain](https://www.ise.io/casestudies/ethercombing/)** - April 2019, focus on eight 32-bit “sub-regions” in the 256-bit key space where are likely to observe Ethereum addresses in use that have resulted from a weak private key. This gives eight regions with a possible 2^32 -1 (i.e., ~4.3 billion) combinations per region. The above key space ranges, while making up an infinitesimal part of the 256-bit key space, are some areas that private keys might exist in due to errors or other factors compromising randomness of a 256-bit key. **Results**: discovered 49,060 transactions spread over 732 public keys for which the private key was found, with a total transfer amount of more than 32 Ethereum.
 
+## Funny Stories
+
+* **[A Glimpse of the Deep: Finding a Creature in Ethereum's Dark Forest](https://www.bertcmiller.com/2021/12/28/glimpse_nonce_reuse.html)** - December 2021.
+* **[How I checked over 1 trillion mnemonics in 30 hours to win a bitcoin](https://medium.com/@johncantrell97/how-i-checked-over-1-trillion-mnemonics-in-30-hours-to-win-a-bitcoin-635fe051a752)** - June 2020.
+
+
 ## Tools & Data
 
 * **[Vanitygen](https://github.com/samr7/vanitygen)** - a command-line vanity Bitcoin address generator.
